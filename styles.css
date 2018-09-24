@@ -1,0 +1,22 @@
+Body{
+    background: white;
+    font-family: 'Signika', sans-serif;
+}
+
+h1{
+    color: indianred;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+p{
+    font-size: 14pt;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+li{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+    background: white;
+}
